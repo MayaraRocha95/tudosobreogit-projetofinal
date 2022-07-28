@@ -1,0 +1,85 @@
+  /** indice **/
+  .indice-caixa {
+    background-color: #ECD6C4;
+    display:grid;
+    justify-content:center;
+  }
+  .indice-caixa .list-ul {
+    margin-left:355px;
+  }
+ /** comandos */
+.titulo-principal-comandos {
+  color:#a98983 ;
+  font-size: 35px;
+  margin-bottom:5px;
+  margin: 40px;
+  letter-spacing: 0.3em;
+  text-align: center;
+}
+
+.subtitulo-comandos{
+  margin-top:45px;
+  color:#eaccc5 ;
+  font-size: 30px;
+  margin: 40px;
+  letter-spacing: 0.1em;
+  text-align: center;
+}
+.paragrafo-comandos{
+  color:aliceblue;
+  width: 40%;
+  margin:30px;
+
+}
+.caixa-comandos {
+  box-shadow: 0 0 1em #d57a68;
+  width: 40vw;
+  height: 10vh;
+  padding-top:1%;
+  color:azure;
+  margin-bottom: 35px;
+}
+
+.imagem-git-exemplos{
+  margin: 50px;
+}
+.referencias{
+  border-top: 1px solid #d57a685d;
+  padding: .2rem .4rem .3rem .4rem;
+}
+
+.list  a:hover{
+  color:#c38916;
+  text-decoration:underline;
+}
+.list-ul ul {
+  list-style: none;
+  
+}
+.list{
+  color:#8E5D52;
+}
+.list a{
+  text-decoration: none;
+  color:#db6319;
+
+}
+
+.list li::before {
+  content: "•";
+  
+   display: inline-block;
+   width: 1em;
+  margin-left: -1em
+  }
+/** botão voltar ao topo*/
+.btn-top{
+  text-decoration: none;
+  color:#a98983 ;
+  text-shadow: 3px 3px 10px #2F2325;
+  font-size: 35px;
+  padding:20px;
+  position:fixed;
+  left:15px;
+  bottom:20px;
+}
