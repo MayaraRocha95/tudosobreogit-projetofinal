@@ -206,7 +206,8 @@ article .topicos-caixa {
       margin: 0 auto;
     }
     .topicos-caixa{
- 
+      flex-wrap: wrap;
+      margin:35px;
       width:220px;
     }     
       .topicos  .paragrafos{
@@ -214,11 +215,8 @@ article .topicos-caixa {
         
       }
       .topicos .conteudo-principal-imagem{
-        width:15%;
-        height:4rem;
-       display: flex;
-       align-items: center;
-       margin-left: 100px;;
+      display: block;
+      height: auto;
          }
   
     .autora {
