@@ -114,28 +114,29 @@
 }
 article .topicos-caixa {
 
-  padding: 5rem 0 5rem;
+  padding: 4rem 0 4rem;
   display: flex;
    align-items: center;
   }
 .topicos {
    display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
-  margin-right: 100px;
-  margin:15px;
+   margin:0;
 }
 .topicos  .paragrafos{
-  text-align: justify;
-  width: 80%;
+   width: 70%;
   
+}
+.topicos .titulo-principal{
+  font-size: 25px;
 }
 .topicos .conteudo-principal-imagem{
   width:30%;
   height:10rem;
-  margin-right: 170px;
-
+  align-items: center;
+  margin: 0;
 }
 .autora {
   display:flex;
@@ -144,7 +145,8 @@ article .topicos-caixa {
   padding: 30px;
 }
 .autora .conteudo-principal-imagem{
-  width:40%;
+  width:65%;
+  height:200px;
   border-radius: 50%;
   border-top: dotted  #f05133 10px;
   box-shadow: 3px 3px 10px #2f23252d;
