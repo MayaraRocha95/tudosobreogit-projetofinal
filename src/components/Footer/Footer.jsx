@@ -49,8 +49,8 @@ export default function Footer() {
                   </Link>
                 </li>
                 <li >
-                  <Link className="link" to="/quiz">
-                    Quiz
+                  <Link className="link" to="/questoes">
+                    Questoes
                   </Link>
                 </li>
                 <li >

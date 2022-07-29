@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Menu from '../pages/Menu/Menu'
 import Guia from '../pages/Guia/Guia'
-import Quiz from '../pages/Quiz/Quiz'
+import Questoes from '../pages/Questoes/Questoes'
 import Comandos from '../pages/Comandos/Comandos'
 import Header from '../components/Header/Header'
 import Footer from '../components/Footer/Footer'
@@ -14,7 +14,7 @@ function ApplicationRoutes(){
     <Routes>
       <Route path="/" element={<Menu />}/>
       <Route path="guia" element={<Guia />}/>
-      <Route path="quiz" element={<Quiz />}/>
+      <Route path="questoes" element={<Questoes />}/>
       <Route path="comandos" element={<Comandos />}/>
     </Routes>
     <Footer />

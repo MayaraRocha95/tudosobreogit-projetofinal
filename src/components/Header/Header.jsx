@@ -17,8 +17,8 @@ function Header() {
           </Link>
         </li>
         <li className="item">
-          <Link className="link" to="/quiz">
-            Quiz
+          <Link className="link" to="/questoes">
+            Questões
           </Link>
         </li>
         <li className="item">

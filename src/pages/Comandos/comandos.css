@@ -67,7 +67,6 @@
 
 .list li::before {
   content: "•";
-  
    display: inline-block;
    width: 1em;
   margin-left: -1em
@@ -82,4 +81,13 @@
   position:fixed;
   left:15px;
   bottom:20px;
+}
+/*responsividade */
+@media only screen and (max-width: 768px){
+  .indice-caixa .list-ul {
+    margin: 0 auto;
+  }
+  .imagem-git-exemplos{
+    width:80%;
+  }
 }

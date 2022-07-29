@@ -40,13 +40,14 @@
   float: right;
   background-color:rgba(207, 92, 25);
   width:100vw;
+  height:60px;
   margin-top: 15px;
   opacity: .4;
-  font-weight: 50;
+ 
 }
 
 .f-menu{
-  padding: 0 0 0 70%;
+  padding: 0 0 0 50%;
  
 }
 .footer-menu ul{
@@ -63,7 +64,7 @@ display: block;
   text-decoration: none;
  
 }
-.footer-menu ul li a:hover {
+.footer-menu .link a:hover {
   color: brown;
 }
 .footer-menu .footer-paragrafo{
@@ -71,14 +72,31 @@ display: block;
     float: left;
     text-transform: capitalize;
   }
-@media (max-width:500px) {
+@media (max-width:768px) {
   .footer {
-    display: flex;
+   width:50%;
+
     margin-top: 10px;
     margin-bottom: 20px;
+    text-align: center;
   }
-  .f-menu{
+  .f-menu .link{
     padding:0;
-   
+    display: inline;
+    
+
   }
+  .footer-menu ul li a{
+    width:200px;
+  }
+  .footer-menu {
+    
+    float:none;
+    width:200px;
+    height:60px;
+  }
+  .footer-menu ul li a:hover {
+    color: brown;
+  }
+ 
   }

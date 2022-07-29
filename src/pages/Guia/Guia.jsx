@@ -1,6 +1,6 @@
 import './guia.css'
-import Titulo from './Titulo';
-import Paragrafo from './Paragrafo';
+import Titulo from '../../components/paginaGuia/Titulo';
+import Paragrafo from '../../components/paginaGuia/Paragrafo';
 
 function Guia() {
   return (
