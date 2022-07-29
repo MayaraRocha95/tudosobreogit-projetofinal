@@ -1,6 +1,9 @@
 # Tudo Sobre o Git
-Meu projeto final da [Reprograma](https://www.reprograma.com.br/) será com o tema : **Tudo Sobre o Git**.<br> Desde que comecei a estudar programação o git sempre me deixou muito confusa, após entrar na reprograma eu entendi e aprendi como melhorar meu conhecimento, eu espero que este projeto ajude a entender melhor esta ferramenta que os programadores usam todos os dias.
+Meu projeto final da [Reprograma](https://www.reprograma.com.br/) será com o tema : **Tudo Sobre o Git**.<br> Desde que comecei a estudar programação o git sempre me deixou muito confusa, após entrar na reprograma eu entendi e aprendi como melhorar meu conhecimento, eu espero que este projeto ajude a entender melhor esta ferramenta que os programadores usam todos os dias.<br/>
 
+
+**Veja o Projeto**⬇️<br/>
+[Tudo Sobre o Git](https://tudo-sobre-git.netlify.app/)
 ## Descrição do projeto
  #### `Página Menu`
  > ...A primeira  página mostra as informações sobre o **Git**, tem um botão que leva diretamente para o link onde você pode baixar o Git em qualquer computador, algumas dicas de como aprender melhor o **Git**,abaixo três qualidades do Git.No sobre mim, falo um pouco de quem eu sou...
