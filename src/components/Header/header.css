@@ -34,4 +34,15 @@ body, input, button, textarea{
   margin: 0;
   box-sizing: border-box;
 }
+@media only screen and (max-width: 768px){
+  .item .link{
+    font-size:13px;
+    font-weight:20;
+    padding:1px 1px 2px;
+     margin-left: 0.6rem;
+    } 
+    .menu{
+      padding: 30px 2rem 30px ;
+    }
 
+}

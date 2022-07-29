@@ -84,10 +84,47 @@
 }
 /*responsividade */
 @media only screen and (max-width: 768px){
+  .indice-caixa{
+    width: 95%;
+    margin:5px;
+  }
   .indice-caixa .list-ul {
     margin: 0 auto;
   }
   .imagem-git-exemplos{
     width:80%;
   }
+
+ .list{
+    color:#8E5D52;
+    font-size:15px;
+  }
+  .titulo-principal-comandos {
+    color:#a98983 ;
+    font-size: 25px;
+    letter-spacing: 0.1em;
+  
+  }
+
+.subtitulo-comandos{
+  margin-top:45px;
+  color:#eaccc5 ;
+  font-size: 15px;
+  margin: 40px;
+  letter-spacing: 0.1em;
+  text-align: center;
+}
+.paragrafo-comandos{
+  font-size: 10px;
+
+}
+.caixa-comandos{
+  font-size: 11px;
+  text-align: center;
+  width: 340px;
+  height: 35px;
+ 
+}
+  
+
 }

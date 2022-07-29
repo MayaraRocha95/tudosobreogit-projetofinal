@@ -80,23 +80,9 @@ display: block;
     margin-bottom: 20px;
     text-align: center;
   }
-  .f-menu .link{
-    padding:0;
-    display: inline;
-    
-
-  }
-  .footer-menu ul li a{
-    width:200px;
-  }
-  .footer-menu {
-    
-    float:none;
-    width:200px;
-    height:60px;
-  }
-  .footer-menu ul li a:hover {
-    color: brown;
-  }
+ .footer-menu{
+  display: none;
+ }
+  
  
   }
