@@ -1,8 +1,8 @@
-import Titulo from './Titulo';
-import Paragrafo from './Paragrafo';
-import Subtitulo from './Subtitulo';
-import CaixaComandos from './CaixaComandos';
-import Imagem from './ImagemExemplos';
+import Titulo from '../../components/paginaComandos/Titulo';
+import Paragrafo from '../../components/paginaComandos/Paragrafo';
+import Subtitulo from '../../components/paginaComandos/Subtitulo';
+import CaixaComandos from '../../components/paginaComandos/CaixaComandos';
+import Imagem from '../../components/paginaComandos/ImagemExemplos';
 import GitStatus from '../../assets/git-status.png';
 import './comandos.css';
 
