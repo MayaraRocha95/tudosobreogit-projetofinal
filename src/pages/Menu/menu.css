@@ -168,8 +168,9 @@ article .topicos-caixa {
     margin: 15px;
   }
   .conteudo-principal-imagem {
-    width: 20%;
-   display:block;
+    width: 10%;
+   margin: 0;
+   margin-top:290px;
   }
   .conteudo-principal-escrito-botao {
     background-color: #f05133;

@@ -26,8 +26,9 @@ export default function Footer() {
                 <img src={navIcon3} alt="Icon" />
               </a>
              </div> 
-              <Paragrafo>Feito por Mayara Rocha |On17 | #TodasEmTech </Paragrafo>
+              <Paragrafo>Feito por Mayara Rocha <br/>|On17 | #TodasEmTech </Paragrafo>
              <div className="reprograma">
+              
               <a target="_blank" href="https://www.reprograma.com.br/">Conheça a  &#x0007B;Reprograma&#x0007D;</a>
              
              </div>
